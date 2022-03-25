@@ -1,0 +1,2 @@
+# EncryptApp
+Run .exe file
